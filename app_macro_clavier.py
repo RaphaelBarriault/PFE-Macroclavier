@@ -566,7 +566,7 @@ class qt(QMainWindow):
                 pixmap = QPixmap("./buttonsIcons/encoder right.png")
             elif i == 10:
                 labelBtnTemp.append(QLabel("Enc. B."))
-                pixmap = QPixmap("./buttonsIcons/encoder.jpg")
+                pixmap = QPixmap("./buttonsIcons/encoder.png")
             else:    
                 labelBtnTemp.append(QLabel(str(i+1))) 
                 pixmap = QPixmap("./buttonsIcons/button {}.png".format(i+1))
@@ -577,7 +577,7 @@ class qt(QMainWindow):
             labelBtnTemp[i].setPixmap(smaller_pixmap)
 
             # on ajoute le tooltip qui permet de voir le layout du streamdeck lorsqu'on passe sur la touche
-            labelBtnTemp[i].setToolTip('<img src="settings.png" width="200" height="200">')
+            labelBtnTemp[i].setToolTip('<img src="layout clavier.png" width="200" height="200">')
 
             # on ajoute le comboBox du Mode
             combo = QComboBox()
