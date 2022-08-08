@@ -13,15 +13,15 @@ https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=shari
 
 <p align="middle"> 
   <img
-    src="/Hardware/Version 3.0/disposition.png"
-    alt="Alt text"
-    title="Disposition macro-clavier"
-    style="display: inline-block; margin: 0 auto; max-width: 300px">
-<img
-    src="/Software/Pictures/macro-clavier.png"
-    alt="Alt text"
-    title="Application"
-    style="display: inline-block; margin: 0 auto; max-width: 300px">
+      src="/Software/Pictures/macro-clavier.png"
+      alt="Alt text"
+      title="Application"
+      style="display: inline-block; margin: 0 auto; max-width: 300px">
+   <img
+      src="/Hardware/Version 3.0/disposition.png"
+      alt="Alt text"
+      title="Disposition macro-clavier"
+      style="display: inline-block; margin: 0 auto; max-width: 300px">
 </p>
 
 
