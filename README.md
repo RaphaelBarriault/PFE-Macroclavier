@@ -9,10 +9,6 @@ https://drive.google.com/file/d/1Z4hZw7pUGr4SuPKK-AIHUiA_aWlg8qzn/view?usp=shari
 https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=sharing
 
 ## __Manuel d'instructions__
-
-<p align="middle"> 
-  Application de personalisation
-</p>
         
 <p align="middle"> 
   <img
@@ -20,8 +16,12 @@ https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=shari
       alt="Alt text"
       title="Application"
       style="display: inline-block; margin: 0 auto; max-width: 300px">
-
 </p>
+<p align="middle"> 
+  Application de personalisation
+</p>
+
+
 
 <p align="middle"> 
    <img
@@ -29,6 +29,9 @@ https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=shari
       alt="Alt text"
       title="Disposition macro-clavier"
       style="display: inline-block; margin: 0 auto; max-width: 300px">
+</p>
+<p align="middle"> 
+  Disposition du macro-clavier
 </p>
 
 
