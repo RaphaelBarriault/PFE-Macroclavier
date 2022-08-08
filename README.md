@@ -10,10 +10,9 @@ https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=shari
 
 ## __Manuel d'instructions__
 
-
-<p align="middle"> 
   
-  ###### Application de personalisation
+         ##### Application de personalisation
+<p align="middle"> 
   <img
       src="/Software/Pictures/macro-clavier.png"
       alt="Alt text"
