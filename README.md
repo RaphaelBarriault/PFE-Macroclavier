@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=shari
       style="display: inline-block; margin: 0 auto; max-width: 300px">
 </p>
 <p align="middle"> 
-  __Application de personalisation__
+  <strong>Application de personalisation
 </p>
 
 
