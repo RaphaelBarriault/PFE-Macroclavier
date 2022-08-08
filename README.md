@@ -14,16 +14,12 @@ https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=shari
   <img
       src="/Software/Pictures/macro-clavier.png"
       alt="Alt text"
-      title="Application"
+      title="Application de personnalisation"
       style="display: inline-block; margin: 0 auto; max-width: 300px">
 </p>
 <p align="middle"> 
-  <b>Application de personalisation
+  <b>Application de personnalisation</b>
 </p>
-
-
-
-
 
 <p align="middle"> 
    <img
@@ -33,7 +29,7 @@ https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=shari
       style="display: inline-block; margin: 0 auto; max-width: 300px">
 </p>
 <p align="middle"> 
-  Disposition du macro-clavier
+   <b>Disposition du macro-clavier</b>
 </p>
 
 
