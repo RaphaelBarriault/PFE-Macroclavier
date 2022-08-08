@@ -9,21 +9,18 @@ https://drive.google.com/file/d/1Z4hZw7pUGr4SuPKK-AIHUiA_aWlg8qzn/view?usp=shari
 https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=sharing
 
 ## __Manuel d'instructions__
-<img
-    src="/Software/Pictures/macro-clavier.png"
-    alt="Alt text"
-    title="Application"
-    style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
-
-
-<p align="middle">
-  
+<p align="middle"> 
   <img
     src="/Hardware/Version 3.0/disposition.png"
     alt="Alt text"
     title="Disposition macro-clavier"
+    style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img
+    src="/Software/Pictures/macro-clavier.png"
+    alt="Alt text"
+    title="Application"
     style="display: inline-block; margin: 0 auto; max-width: 300px">
 </p>
 
