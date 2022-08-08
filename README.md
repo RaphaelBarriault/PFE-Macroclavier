@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=shari
 
 ## __Manuel d'instructions__
 
-![My Image](Hardware/Version 3.0/disposition.png)
+
 
 ![My Image](Software/Pictures/macro-clavier.png)
 
@@ -45,4 +45,4 @@ https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=shari
 13. Permet de choisir l’intensité des leds.
 
 14. Permet de mettre le mode contraste sur l’écran. Dans ce mode, l’écran sera noir et les écritures blanches.
-
+![My Image](Hardware/Version 3.0/disposition.png)
