@@ -12,14 +12,13 @@ https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=shari
 
 
 <p align="middle"> 
+  ### __Application de personalisation__
   <img
       src="/Software/Pictures/macro-clavier.png"
       alt="Alt text"
       title="Application"
       style="display: inline-block; margin: 0 auto; max-width: 300px">
-  =====
-  Title
-  =====
+
 </p>
 
 <p align="middle"> 
