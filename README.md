@@ -11,6 +11,7 @@ https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=shari
 ## __Manuel d'instructions__
 
 ![My Image](Software/Pictures/macro-clavier.png)
+         Application de personnalisation du macro clavier
 
 1. Dans cette section, il y a tout d’abord le nom de fichier de la configuration sur laquelle on travaille, suivi du nom de l’application et de sa version. Si la configuration n’a pas encore été sauvegardée, le nom du fichier est remplacé par ‘’sans titre’’ jusqu’à ce que le fichier soit sauvegardé.
 
