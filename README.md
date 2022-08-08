@@ -24,12 +24,13 @@ https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=shari
 4. On voit ici tous les onglets de la configuration. Lorsqu’un onglet est créé, il a par défaut un numéro. Le nom de l’onglet peut être changé en double-cliquant sur l’onglet. Si un utilisateur entre un nom vide lors de la saisie, le nom de l’onglet redeviendra son numéro par défaut. Un clique-droit permet trois actions. Le premier est de copier l’onglet actif. Les deux autres sont de coller un onglet avant ou après l’onglet actif. Le nombre d’onglets maximal est de neuf.
 
 5. Cette colonne n’a aucune fonction reliée, elle n’est là que pour montrer à l’utilisateur quelle touche il configure. Lorsque la souris est passée sur une des touches, une image de la disposition du macro-clavier apparaît, comme montré sur la figure ci-dessous représentant la disposition du macro-clavier.
-
+<p float="middle">
 <img
   src="/Hardware/Version 3.0/disposition.png"
   alt="Alt text"
   title="Disposition macro-clavier"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+ </p>
 
 6. Pour chaque bouton, l'utilisateur peut choisir le mode. Le premier est le mode modificateur. L’utilisateur choisit les modificateurs voulus (section 8), et une lettre à envoyer (section 9). Lors de l’utilisation de cette touche, le macro-clavier enverra les différents modificateurs en même temps que la lettre choisie. Ensuite, il y a le mode média, qui permet d’envoyer une touche multimédia. Le choix de la touche média à envoyer se fait à la section 7. Le mode un à un permet d’envoyer chaque caractère se situant dans la zone d’envoi un à un pour, par exemple, écrire tout un mot ou une phrase. Les trois modes suivants sont reliés aux changements de sous-dossiers. Le ‘’va à’’ permet de sauter directement à la page indiquée dans la zone d’envoi.
 
