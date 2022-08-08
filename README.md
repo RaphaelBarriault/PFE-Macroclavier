@@ -45,4 +45,10 @@ https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=shari
 13. Permet de choisir l’intensité des leds.
 
 14. Permet de mettre le mode contraste sur l’écran. Dans ce mode, l’écran sera noir et les écritures blanches.
-![My Image](Hardware/Version 3.0/disposition.png)
+
+<img
+  src="/Hardware/Version 3.0/disposition.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
