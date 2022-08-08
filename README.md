@@ -10,6 +10,7 @@ https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=shari
 
 ## __Manuel d'instructions__
 
+![My Image](Hardware/Version 3.0/disposition.png)
 
 ![My Image](Software/Pictures/macro-clavier.png)
 
@@ -25,7 +26,7 @@ https://drive.google.com/file/d/1S9LCvJq_6kRC7P0y4czJhh6paydtFdjk/view?usp=shari
 5. Cette colonne n’a aucune fonction reliée, elle n’est là que pour montrer à l’utilisateur quelle touche il configure. Lorsque la souris est passée sur une des touches, une image de la disposition du macro-clavier apparaît, comme montré sur la figure ci-dessous représentant la disposition du macro-clavier.
 
 
-![My Image](Hardware/Version 3.0/disposition.png)
+
 
 
 6. Pour chaque bouton, l'utilisateur peut choisir le mode. Le premier est le mode modificateur. L’utilisateur choisit les modificateurs voulus (section 8), et une lettre à envoyer (section 9). Lors de l’utilisation de cette touche, le macro-clavier enverra les différents modificateurs en même temps que la lettre choisie. Ensuite, il y a le mode média, qui permet d’envoyer une touche multimédia. Le choix de la touche média à envoyer se fait à la section 7. Le mode un à un permet d’envoyer chaque caractère se situant dans la zone d’envoi un à un pour, par exemple, écrire tout un mot ou une phrase. Les trois modes suivants sont reliés aux changements de sous-dossiers. Le ‘’va à’’ permet de sauter directement à la page indiquée dans la zone d’envoi.
